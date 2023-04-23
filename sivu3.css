@@ -1,0 +1,20 @@
+header{ 
+    text-align: center;
+    font-size: 100px;
+    background-color: black;
+    color: brown;
+}
+section{width: 10%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    float: left;
+    box-shadow: inset 5px 0 5px -5px #232527;
+    font-style: roman;
+    color: #1c1d1e;
+    background-color: gray; }
+    body{ 
+        background-color: red;
+    }
+    h1{
+        text-align: center;
+     }
